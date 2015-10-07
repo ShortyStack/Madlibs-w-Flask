@@ -1,0 +1,12 @@
+/*change the font to blue
+change the backgrond to yellow
+change the font style to garamond and bold
+*/
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
